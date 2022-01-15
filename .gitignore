@@ -20,3 +20,5 @@ data_*/
 bin/
 build/
 lib/
+.mono/assemblies/Debug/api_hash_cache.cfg
+.mono/metadata/ide_messaging_meta.txt
