@@ -21,7 +21,7 @@ _global_script_class_icons={
 [application]
 
 config/name="TestProject"
-config/icon="res://icon.png"
+config/icon="res://art/icon.png"
 
 [gdnative]
 
