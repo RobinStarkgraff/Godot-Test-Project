@@ -21,6 +21,7 @@ _global_script_class_icons={
 [application]
 
 config/name="TestProject"
+run/main_scene="res://scenes/MainScene.tscn"
 config/icon="res://art/icon.png"
 
 [gdnative]
